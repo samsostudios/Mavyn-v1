@@ -7,7 +7,7 @@
     "paths": {
       "$utils/*": ["src/utils/*"],
       "$motion/*": ["src/motion/*"],
-      "$pages/*": ["src/pages"]
+      "$pages/*": ["src/pages/*"]
     }
   }
 }
